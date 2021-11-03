@@ -1,0 +1,32 @@
+h1 {
+ color: #fa2d2d;
+ text-align: center;
+}
+
+div 
+ {
+    height: 22px;
+    margin: 0;
+    background : green; 
+}
+
+#entete{
+text-align: left;
+}
+
+body {
+color: black;
+text-align: center;
+background-image:url('image/AnxiousWealthyGraysquirrel-size_restricted.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+    margin: 0;
+    font-family: Arial;
+}
+
+footer{
+    margin-left: 1036px;
+}
